@@ -25,3 +25,9 @@ Office supplies is the category which have maximum sales
 
 Most of the customer preferred standard class ship mode
 
+
+
+
+![Screenshot (118)](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/96a757a2-23ab-4dbf-a4e3-82f501e14da2)
+![Screenshot (119)](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/f663027b-0149-4c63-a03b-12d3b30b8b4b)
+
