@@ -4,7 +4,7 @@ In this project i have collected raw data and do data cleaning, remove null valu
 
 
 
-Project Description:
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
 
 Data Cleaning
 
@@ -12,7 +12,7 @@ Dashboard Creation
 
 Data Analysis
 
-Insights Drawn From Project:
+𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐃𝐫𝐚𝐰𝐧 𝐅𝐫𝐨𝐦 𝐏𝐫𝐨𝐣𝐞𝐜𝐭:
 
 Maximum sales are driven through COD payment mode
 
