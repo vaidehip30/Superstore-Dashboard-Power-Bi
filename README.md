@@ -1,5 +1,5 @@
 # Superstore-Dashboard-Power-Bi
-In this project i have collected raw data and do data cleaning, remove null values and then created dashboard and also done forecasting of sales.
+In this project i have collected raw data and done data cleaning, remove null values and then created dashboard and also done forecasting of sales.
 
 
 [Superstore sales dashboard forecasting.pdf](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/files/11608664/Superstore.sales.dashboard.forecasting.pdf)
