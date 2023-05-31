@@ -2,6 +2,9 @@
 In this project i have collected raw data and do data cleaning, remove null values and then created dashboard and also done forecasting of sales.
 
 
+[Superstore sales dashboard forecasting.pdf](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/files/11608664/Superstore.sales.dashboard.forecasting.pdf)
+
+
 
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
@@ -28,6 +31,6 @@ Most of the customer preferred standard class ship mode
 
 
 
-![Screenshot (118)](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/96a757a2-23ab-4dbf-a4e3-82f501e14da2)
-![Screenshot (119)](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/f663027b-0149-4c63-a03b-12d3b30b8b4b)
+
+
 
