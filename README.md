@@ -30,7 +30,13 @@ Most of the customer preferred standard class ship mode
 
 
 
+𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
 
 
 
 
+![Dashboard](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/67b5be75-5aaa-4d7a-839b-3eba5437204d)
+
+
+
+![Forecasting](https://github.com/vaidehip30/Superstore-Dashboard-Power-Bi/assets/134762504/b2cae23e-ebed-4113-b28e-4f59882e070b)
